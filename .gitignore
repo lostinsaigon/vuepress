@@ -5,3 +5,6 @@ yarn.lock
 .DS_Store
 .npm
 .foresty
+.cache
+.npm/
+.foresty/
